@@ -1,4 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A user should be able to type in some text on the Search Box.
+So go to type in plants, flowers or buildings any term you could possibly imagine after
+then type in that term and then press enter.
+We're going to do a search or a request to an outside API that is going to find images or basically
+just simple pictures that match whatever term that user just entered.
+
+So if a user enters and cars and then presses enter I would want to somehow get a list of images of
+!["ImageCNTower"](https://github.com/ArpitaDeb/pics/blob/master/docs/CNTower.png?raw=true)
+!["Banff"](https://github.com/ArpitaDeb/pics/blob/master/docs/banff.png?raw=true)
+!["FlowerImage"](https://github.com/ArpitaDeb/pics/blob/master/docs/flower.png?raw=true)
 
 ## Available Scripts
 
